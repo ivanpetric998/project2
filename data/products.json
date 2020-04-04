@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Products 1",
+        "price1": 11,
+        "price2":12
+    },
+    {
+        "id":2,
+        "name":"Products 2",
+        "price1": 21,
+        "price2":22
+    },
+    {
+        "id":3,
+        "name":"Products 3",
+        "price1": 31,
+        "price2":32
+    },
+    {
+        "id":4,
+        "name":"Products 4",
+        "price1": 41,
+        "price2":42
+    },
+    {
+        "id":5,
+        "name":"Products 5",
+        "price1": 51,
+        "price2":52
+    },
+    {
+        "id":6,
+        "name":"Products 6",
+        "price1": 61,
+        "price2":62
+    },
+    {
+        "id":7,
+        "name":"Products 7",
+        "price1": 71,
+        "price2":72
+    }
+]

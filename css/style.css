@@ -1,0 +1,12 @@
+#insert{
+    margin-top: 20px;
+}
+.borderBottomRed{
+    border-bottom: 1px solid red !important;
+}
+.borderRed{
+    border: 1px solid red;
+}
+.title-size{
+    font-size: 35px;
+}
